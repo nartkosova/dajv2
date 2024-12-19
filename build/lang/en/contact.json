@@ -1,0 +1,20 @@
+{
+  "contact": "Contact",
+  "title": "We look forward to hearing from you",
+  "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+
+  "salutation": "How should we address you?",
+  "title1": "Title",
+
+  "name": "Firstname",
+  "surname": "Lastname",
+
+  "email": "E-Mail Adress",
+  "phone": "Phone Number",
+
+  "reference": "Reference",
+  "message": "Message",
+
+  "data": "Declaration of consent and data protection",
+  "accept": "View and accept"
+}

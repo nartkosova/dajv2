@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.559686f6.css",
-    "main.js": "/static/js/main.99878fb8.js",
+    "main.js": "/static/js/main.2361e79a.js",
     "static/js/38.b7169f1b.chunk.js": "/static/js/38.b7169f1b.chunk.js",
     "static/js/453.0a36081d.chunk.js": "/static/js/453.0a36081d.chunk.js",
     "static/media/news.jpg": "/static/media/news.486dfa718eb7c15c8313.jpg",
@@ -13,22 +13,22 @@
     "static/media/3.png": "/static/media/3.3cdd12abdd29bc8a68b8.png",
     "static/media/2.png": "/static/media/2.a22e551df126035a43d0.png",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/foto1.png": "/static/media/foto1.d030ed43ae853e7d081b.png",
     "static/media/1.png": "/static/media/1.449edc87e968cbd3bdde.png",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c210719e60948b211a12.woff2",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
-    "static/media/attorney.jpg": "/static/media/attorney.d292f9fc157f99f169ca.jpg",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/index.html",
     "main.559686f6.css.map": "/static/css/main.559686f6.css.map",
-    "main.99878fb8.js.map": "/static/js/main.99878fb8.js.map",
+    "main.2361e79a.js.map": "/static/js/main.2361e79a.js.map",
     "38.b7169f1b.chunk.js.map": "/static/js/38.b7169f1b.chunk.js.map",
     "453.0a36081d.chunk.js.map": "/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.559686f6.css",
-    "static/js/main.99878fb8.js"
+    "static/js/main.2361e79a.js"
   ]
 }
